@@ -9,5 +9,3 @@ export const writeContacts = async (updatedContacts) => {
     console.log(error);
   }
 };
-
-writeContacts();
